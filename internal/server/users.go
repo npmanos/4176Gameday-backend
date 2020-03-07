@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
-	ihttp "github.com/Pigmice2733/peregrine-backend/internal/http"
-	"github.com/Pigmice2733/peregrine-backend/internal/store"
+	ihttp "github.com/npmanos/4176Gameday-backend/internal/http"
+	"github.com/npmanos/4176Gameday-backend/internal/store"
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/gorilla/mux"
 	"github.com/jmoiron/sqlx"

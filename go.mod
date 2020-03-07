@@ -1,4 +1,4 @@
-module github.com/Pigmice2733/peregrine-backend
+module github.com/npmanos/4176Gameday-backend
 
 go 1.12
 

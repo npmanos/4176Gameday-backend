@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Pigmice2733/peregrine-backend/internal/store"
+	"github.com/npmanos/4176Gameday-backend/internal/store"
 
-	ihttp "github.com/Pigmice2733/peregrine-backend/internal/http"
+	ihttp "github.com/npmanos/4176Gameday-backend/internal/http"
 	"github.com/gorilla/mux"
 )
 

@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	ihttp "github.com/Pigmice2733/peregrine-backend/internal/http"
+	ihttp "github.com/npmanos/4176Gameday-backend/internal/http"
 	"github.com/gorilla/mux"
 )
 

@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pigmice2733/peregrine-backend/internal/store"
+	"github.com/npmanos/4176Gameday-backend/internal/store"
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/google/go-cmp/cmp"
 	"github.com/sirupsen/logrus"

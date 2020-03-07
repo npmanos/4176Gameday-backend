@@ -6,10 +6,10 @@ import (
 	"time"
 
 	"github.com/NYTimes/gziphandler"
-	"github.com/Pigmice2733/peregrine-backend/internal/config"
-	ihttp "github.com/Pigmice2733/peregrine-backend/internal/http"
-	"github.com/Pigmice2733/peregrine-backend/internal/store"
-	"github.com/Pigmice2733/peregrine-backend/internal/tba"
+	"github.com/npmanos/4176Gameday-backend/internal/config"
+	ihttp "github.com/npmanos/4176Gameday-backend/internal/http"
+	"github.com/npmanos/4176Gameday-backend/internal/store"
+	"github.com/npmanos/4176Gameday-backend/internal/tba"
 	"github.com/sirupsen/logrus"
 )
 

@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Pigmice2733/peregrine-backend/internal/store"
+	"github.com/npmanos/4176Gameday-backend/internal/store"
 )
 
 // Service provides methods for retrieving data from

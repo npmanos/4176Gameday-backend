@@ -8,11 +8,11 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/Pigmice2733/peregrine-backend/internal/config"
-	"github.com/Pigmice2733/peregrine-backend/internal/refresh"
-	"github.com/Pigmice2733/peregrine-backend/internal/server"
-	"github.com/Pigmice2733/peregrine-backend/internal/store"
-	"github.com/Pigmice2733/peregrine-backend/internal/tba"
+	"github.com/npmanos/4176Gameday-backend/internal/config"
+	"github.com/npmanos/4176Gameday-backend/internal/refresh"
+	"github.com/npmanos/4176Gameday-backend/internal/server"
+	"github.com/npmanos/4176Gameday-backend/internal/store"
+	"github.com/npmanos/4176Gameday-backend/internal/tba"
 	"github.com/sirupsen/logrus"
 )
 

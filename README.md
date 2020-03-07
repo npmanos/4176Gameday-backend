@@ -1,8 +1,8 @@
 # Peregrine
 
-[![GoDoc](https://godoc.org/github.com/Pigmice2733/peregrine-backend?status.svg)](https://godoc.org/github.com/Pigmice2733/peregrine-backend)
-[![Go Report Card](https://goreportcard.com/badge/github.com/Pigmice2733/peregrine-backend)](https://goreportcard.com/report/github.com/Pigmice2733/peregrine-backend)
-[![GitHub](https://img.shields.io/github/license/Pigmice2733/peregrine-backend.svg)](https://github.com/Pigmice2733/peregrine-backend/blob/master/LICENSE.md)
+[![GoDoc](https://godoc.org/github.com/npmanos/4176Gameday-backend?status.svg)](https://godoc.org/github.com/npmanos/4176Gameday-backend)
+[![Go Report Card](https://goreportcard.com/badge/github.com/npmanos/4176Gameday-backend)](https://goreportcard.com/report/github.com/npmanos/4176Gameday-backend)
+[![GitHub](https://img.shields.io/github/license/npmanos/4176Gameday-backend.svg)](https://github.com/npmanos/4176Gameday-backend/blob/master/LICENSE.md)
 
 Peregrine is a HTTP JSON API written in Go for scouting and analysis of FIRST Robotics competitions.
 
@@ -15,7 +15,7 @@ For a description of what scouting is, please view the [SCOUTING.md](SCOUTING.md
 2. Clone the repo:
 
 ```
-git clone git@github.com:Pigmice2733/peregrine-backend.git
+git clone git@github.com:npmanos/4176Gameday-backend.git
 ```
 
 4. Change directory to the repo root:
@@ -64,7 +64,7 @@ peregrine config.json
 ## API Documentation
 
 Peregrine's entire API is documented with OpenAPI 3.0.0 (previously known as Swagger). You can
-view the documentation [here](https://github.com/Pigmice2733/peregrine-backend/blob/develop/internal/server/openapi.yaml).
+view the documentation [here](https://github.com/npmanos/4176Gameday-backend/blob/develop/internal/server/openapi.yaml).
 If you notice any inaccuracies please let us know so the documentation can be corrected.
 
 ## Testing
